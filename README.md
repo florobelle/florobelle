@@ -1,0 +1,7 @@
+- 👋 Hi, I’m **Zarah** (@florobelle)
+- 👀 I’m interested in Software Engineering and Development. I also dabble in Data Science and QA Testing.
+- 🌱 I’m currently learning Svelte and Supabase for my current project: SUSê.
+- 💞️ I’m looking to collaborate on the backend of any software application project!
+- 📫 You can reach me through GMail (_zbnfloro@gmail.com_) or LinkedIn (_linkedin.com/in/zarah-floro/_)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love black cats specifically! I also love pixel farming/cooking games like Stardew Valley or Bone's Cafe.
